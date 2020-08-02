@@ -159,15 +159,15 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/react-original.svg" />
 </a>
 
-<br><br>
+<br>
 
-
+<hr>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vatsa287&show_icons=true&theme=dark&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vatsa287&theme=dark">
 </p>
 
-<br><br>
+<br>
 
 <hr>
 <p align="center">
