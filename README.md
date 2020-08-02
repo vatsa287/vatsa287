@@ -167,8 +167,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vatsa287&theme=dark">
 </p>
 
-<br>
-
 <hr>
 <p align="center">
   <i>You can connect with me here!</i>
