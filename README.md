@@ -111,7 +111,6 @@
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />
 </a>
-
 <a href="https://github.com">
   <img
     alt="Github"
@@ -167,6 +166,20 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=vatsa287&show_icons=true&theme=dark&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vatsa287&theme=dark">
 </p>
+
+<br><br>
+
+<hr>
+<p align="center">
+  <i>You can connect with me here!</i>
+  <p align="center">
+    <a href="https://twitter.com/vasta287" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+    <a href="https://www.linkedin.com/in/vatsa287" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://github.com/vatsa287" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+    <a href="https://medium.com/@shreevatsan" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+  </p>
+</p>
+
 
 
 <!--
