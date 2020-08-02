@@ -1,6 +1,6 @@
-### Hello World <img src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif" width="30px">
+### Hello World <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
 
-<img align = 'right' src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/myAvatar.png" alt="Shree Vatsa N" width="180" height="180">
+<img align = 'right' src="https://github.com/vatsa287/vatsa287/blob/master/assets/myAvatar.png" alt="Shree Vatsa N" width="180" height="180">
 
 <p float='left'> I'm <Shree Vatsa/>, a Indian passionate aspiring software developer who loves to create new things and explore new technologies. I'm currently Bachelor in Computer Science undergraduate student at Atria.</p>
 
