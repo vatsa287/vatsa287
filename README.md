@@ -1,6 +1,6 @@
-### Hello World <img src="assets/Hi.gif" width="30px">
+### Hello World <img src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif" width="30px">
 
-<img align = 'right' src="assets/myAvatar.png" alt="Shree Vatsa N" width="180" height="180">
+<img align = 'right' src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/myAvatar.png" alt="Shree Vatsa N" width="180" height="180">
 
 <p float='left'> I'm <Shree Vatsa/>, a Indian passionate aspiring software developer who loves to create new things and explore new technologies. I'm currently Bachelor in Computer Science undergraduate student at Atria.</p>
 
@@ -31,14 +31,14 @@
     alt="C"
     height="80"
     width="80"
-    src="assets/c-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/c-original.svg" />
 </a>
 <a href="https://www.php.net">
   <img
     alt="PHP"
     height="80"
     width="80"
-    src="assets/php-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/php-original.svg" />
 </a>
 <a href="https://www.javascript.com/">
   <img
@@ -52,14 +52,14 @@
     alt="Dart"
     height="80"
     width="80"
-    src="assets/html5-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/html5-original.svg" />
 </a>
 <a href="https://w3.org/">
   <img
     alt="CSS"
     height="80"
     width="80"
-    src="assets/css3.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 
 
@@ -70,35 +70,35 @@
     alt="VS Code"
     height="80"
     width="80"
-    src="assets/visualstudio-plain.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
 </a>
 <a href="atom.io">
   <img 
     alt="Atom"
     height="80"
     width="80"
-    src="assets/atom-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/atom-original.svg" />
 </a>
 <a href="https://ubuntu.com">
   <img 
     alt="Ubuntu"
     height="80"
     width="80"
-    src="assets/ubuntu-plain.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
 </a>
 <a href="https://slack.com">
   <img 
     alt="Slack"
     height="80"
     width="80"
-    src="assets/slack-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" />
 </a>
   <a href="https://trello.com">
   <img 
     alt="Trello"
     height="80"
     width="80"
-    src="assets/trello-plain.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/trello-plain.svg" />
 </a>
 
 
@@ -109,7 +109,7 @@
     alt="Git"
     height="80"
     width="80"
-    src="assets/git-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />
 </a>
 
 <a href="https://github.com">
@@ -117,7 +117,7 @@
     alt="Github"
     height="80"
     width="80"
-    src="assets/github-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
 </a>
 
 
@@ -128,14 +128,14 @@
     alt="Docker"
     height="80"
     width="80"
-    src="assets/docker-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/docker-original.svg" />
 </a>
 <a href="https://kubernetes.io/">
   <img 
     alt="Kubernetes"
     height="80"
     width="80"
-    src="assets/kubernetes-icon.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/kubernetes-icon.svg" />
 </a>
 
 
@@ -146,7 +146,7 @@
     alt="MySql"
     height="80"
     width="80"
-    src="assets/mysql-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/mysql-original.svg" />
 </a>
 
 
@@ -157,7 +157,7 @@
     alt="React"
     height="80"
     width="80"
-    src="assets/react-original.svg" />
+    src="raw.githubusercontent.com/vatsa287/vatsa287/master/assets/react-original.svg" />
 </a>
 
 <br><br>
