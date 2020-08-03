@@ -2,7 +2,7 @@
 
 <img align = 'right' src="https://github.com/vatsa287/vatsa287/blob/master/assets/myAvatar.png" alt="Shree Vatsa N" width="180" height="180">
 
-<p float='left'> I'm Shree Vatsa, a Indian passionate aspiring software developer who loves to create new things and explore new technologies. I'm currently Bachelor in Computer Science undergraduate student at Atria.</p>
+<p float='left'> I'm Shree Vatsa, an Indian passionate aspiring software developer who loves to create new things and explore new technologies. I'm currently Bachelor in Computer Science undergraduate student at Atria.</p>
 
 
 
