@@ -18,14 +18,14 @@
     alt="Python"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/python.svg" />
 </a>
 <a href="https://www.java.com/en/">
   <img
     alt="Java"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" />
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/java.svg" />
 </a>
 <a href="https://www.cprogramming.com/">
   <img
@@ -46,7 +46,7 @@
     alt="JavaScript"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/javascript.svg" />
 </a>
 <a href="https://w3.org/">
   <img
