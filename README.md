@@ -170,6 +170,10 @@
 </p>
 
 <hr>
+
+[![vatsa's github activity graph](https://activity-graph.herokuapp.com/graph?username=vatsa287&theme=xcode&line=33cc33)](https://github.com/vatsa287/github-readme-activity-graph)
+
+
 <p align="center">
   <i>You can connect with me here!</i>
   <p align="center">
