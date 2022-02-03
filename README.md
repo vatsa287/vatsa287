@@ -3,8 +3,9 @@
 <!--
 <img align = 'right' src="https://github.com/vatsa287/vatsa287/blob/master/assets/myAvatar.png" alt="Shree Vatsa N" width="180" height="180">
 -->
-
+<!--
 <p float='left'> I'm Shree Vatsa, an Indian aspiring software developer who loves to create new things and explore new technologies. I'm currently a  Computer Science undergraduate student at Atria. I love to contribute to FOSS projects impacting for a better tech-world.</p>
+-->
 <p>Currently working on <a href="https://www.github.com/kadalu/kadalu">Kadalu</a>, <a href="https://github.com/gluster/glusterfs">Gluster</a> and bunch of other side projects. </p>
 
 
