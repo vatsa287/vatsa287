@@ -6,10 +6,33 @@
 <!--
 <p float='left'> I'm Shree Vatsa, an Indian aspiring software developer who loves to create new things and explore new technologies. I'm currently a  Computer Science undergraduate student at Atria. I love to contribute to FOSS projects impacting for a better tech-world.</p>
 -->
+
+<p> 
+  Hi! I'm Shree Vatsa, Sofware Engineer <a href="https://www.github.com/kadalu">@kadalu</a>, <a href="https://www.github.com/kadalu-tech">@kadalu-tech</a>   with a passion for creating highly available, scalable and reliable storage systems. 
+</p>
+<p>
+  My experience lies in developing & contributing widely used software defined distributed storage systems and orchestration of storage within the Kubernetes  ecosystem such as <a href="https://www.github.com/kadalu/kadalu">Kadalu</a>, <a href="https://github.com/gluster/glusterfs">GlusterFS</a>, <a href="https://github.com/kadalu/moana">Moana</a>, <a href="https://github.com/nfs-ganesha/nfs-ganesha">NFS Ganesha</a> & many more.
+</p>
+<p>
+  The understanding of the importance of a well-informed storage monitoring dashboard is just as crucial as having a scalable storage system. I have developed and contributed to the  <a href="https://www.github.com/kadalu-tech/console">Kadalu Storage Console</a> , which is vital for proactively identifying and resolving issues, optimizing storage utilization, planning for future capacity requirements, and detecting and preventing potential data loss or corruption.
+</p>
+
+<p>
+  I also have experience in developing full-stack end-to-end encrypted real time applications, debian/RPM/fedora/python-pypi packaging etc. Look forward to explore and learn new fields of tech always.
+</p>
+
+<p>
+ I also enjoy contributing to open-source projects and believe in the power of collaboration and community to drive technological advancements
+ #FOSS
+</p>
+
+<!--
 <p>Currently working on <a href="https://www.github.com/kadalu/kadalu">Kadalu</a>, <a href="https://github.com/gluster/glusterfs">Gluster</a>, <a href="https://github.com/kadalu/moana">Moana</a> and bunch of other side projects. </p>
+--> 
 
-
-
+<!--
+TODO: 
+Remove comments after finding reachable svc alternates
 
 ### Skills/Interests
 
@@ -164,6 +187,9 @@
 
 <br>
 
+-->
+
+
 <!--
 <hr>
 <p align = "center">
@@ -188,6 +214,8 @@
 </p>
 
 
+
+![](https://komarev.com/ghpvc/?username=vatsa287&style=for-the-badge&color=orange)
 
 <!--
 **vatsa287/vatsa287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
