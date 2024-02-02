@@ -6,7 +6,7 @@
 <!--
 <p float='left'> I'm Shree Vatsa, an Indian aspiring software developer who loves to create new things and explore new technologies. I'm currently a  Computer Science undergraduate student at Atria. I love to contribute to FOSS projects impacting for a better tech-world.</p>
 -->
-
+<!--
 <p> 
   Hi! I'm Shree Vatsa, Sofware Engineer <a href="https://www.github.com/kadalu">@kadalu</a>, <a href="https://www.github.com/kadalu-tech">@kadalu-tech</a>   with a passion for creating highly available, scalable and reliable storage systems. 
 </p>
@@ -25,6 +25,7 @@
  I also enjoy contributing to open-source projects and believe in the power of collaboration and community to drive technological advancements
  #FOSS
 </p>
+-->
 
 <!--
 <p>Currently working on <a href="https://www.github.com/kadalu/kadalu">Kadalu</a>, <a href="https://github.com/gluster/glusterfs">Gluster</a>, <a href="https://github.com/kadalu/moana">Moana</a> and bunch of other side projects. </p>
